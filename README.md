@@ -14,7 +14,9 @@ CSS: Styling to ensure a responsive and visually appealing layout.
 
 JavaScript: Logic for handling quiz interactions, score calculation, and timing functionality.
 
-open to visit project: https://shahil-quizapp.netlify.app/
+open to visit project: https://shahil-quizapp.netlify.app/ 
+![Screenshot (5)](https://github.com/user-attachments/assets/6c9bcfbf-ca95-47c4-9dc0-b9b20660b22d)
+
 
 Installation To run the app locally:
 
